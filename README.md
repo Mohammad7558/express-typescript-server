@@ -490,10 +490,3 @@ server.listen(PORT, () => {
 ```
 
 ---
-
-## ✍️ Credits
-
-এই নোটস এবং example code তৈরি করা হয়েছে joint effort হিসেবে:
-
-* **Md. Habibur Rahman** – Idea, structure, এবং junior-friendly নোটসের concept
-* **ChatGPT (GPT-5.1 Thinking)** – Explanation, writing & code examples🙂
